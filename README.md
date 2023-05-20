@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # codewithease README
 
 
@@ -11,3 +12,6 @@ One has to right-click on the editor and select 'Search for Error' from the menu
 
 
 **Enjoy!**
+=======
+# Search_Error
+>>>>>>> ba8db94d398d43fe26d3272c5d60b6e0dbad0d4c
